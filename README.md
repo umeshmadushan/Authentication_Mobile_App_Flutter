@@ -29,3 +29,9 @@ dependencies:
   google_sign_in: ^6.2.1
   html: ^0.15.4
   lottie: ^3.1.2
+
+## 📦 Getting Started
+
+``git clone https://github.com/your-username/flutter-authentication-app.git
+cd flutter-authentication-app
+
