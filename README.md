@@ -4,7 +4,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-v3.10.5-blue?logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-Integrated-yellow?logo=firebase)
 
-![Flutter Authentication App](assets/banner.png)
+![Flutter Authentication App](images/banner.png)
 
 A simple and user-friendly authentication app built using Flutter and Firebase. This app features email/password authentication, Google Sign-In, and smooth UI animations.
 
