@@ -55,4 +55,3 @@ Add google-services.json for Android and GoogleService-Info.plist for iOS.
 ```
 flutter run
 ```
-
