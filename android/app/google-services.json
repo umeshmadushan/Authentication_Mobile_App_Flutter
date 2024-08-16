@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497218353098",
+    "project_id": "authappflutter-851c9",
+    "storage_bucket": "authappflutter-851c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497218353098:android:49731aa610e9339b814133",
+        "android_client_info": {
+          "package_name": "com.example.authappflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANro90hrkHQnR0NMtC2LSI_WRgyPcBUws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
