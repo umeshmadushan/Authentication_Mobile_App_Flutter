@@ -2,6 +2,24 @@
 ![Firebase](https://img.shields.io/badge/Firebase-Integrated-yellow?logo=firebase)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+# 📱 Flutter Authentication App
+
+![Flutter Authentication App](assets/banner.png)
+
+A simple and user-friendly authentication app built using Flutter and Firebase. This app features email/password authentication, Google Sign-In, and smooth UI animations.
+
+## 🚀 Features
+
+- 🔒 **Email & Password Authentication**: Secure and reliable.
+- 🔑 **Google Sign-In**: Quick and easy access with Google.
+- 🎨 **Lottie Animations**: Delightful user experience with engaging animations.
+- 📲 **Cross-Platform**: Runs smoothly on both Android and iOS.
+
+## 🛠️ Technologies & Dependencies
+
+This app leverages the following technologies and packages:
+
+```yaml
 dependencies:
   firebase_auth: ^4.17.8
   firebase_core: ^2.27.0
