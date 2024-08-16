@@ -39,15 +39,20 @@ dependencies:
 git clone https://github.com/your-username/flutter-authentication-app.git
 ```
 
+### 2.Clone the repository:
 ```
 cd flutter-authentication-app
 ```
 
+### 3.Install dependencies:
 ```
 flutter pub get
 ```
 
+### 4.Set up Firebase:
+Add google-services.json for Android and GoogleService-Info.plist for iOS.
+
+### 5.Run the app:
 ```
 flutter run
 ```
-
